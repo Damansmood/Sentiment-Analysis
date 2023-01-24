@@ -1,1 +1,1 @@
-# Sentiment-Analysis
+Created a short sentiment analysis script that connected with Twitter developer portal to get sentiment from a search. Need to work on extending project to create visualization later on using matplotlib.
